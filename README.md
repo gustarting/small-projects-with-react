@@ -11,3 +11,5 @@ https://youtu.be/lVqHiTCIRQg?si=y_9jZ1e7E6WnUVQe
 https://youtu.be/rLoWMU4L_qE?si=TpxSaZwdsvHcSD-0
 
 # Aprendiendo React ⚛️ | https://cursoreact.dev/ 
+
+https://www.youtube.com/watch?v=7iobxzd_2wY
